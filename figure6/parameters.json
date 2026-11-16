@@ -1,0 +1,32 @@
+{
+  "data_kind": "displayed_vector_path_vertices_and_embedded_RGB_snapshots",
+  "source_pdf": "figure6.pdf",
+  "source_sha256": "0e4bc38005113118f493c8899aea1857a898aae755561c88b255f32ceb17f341",
+  "source_creation_date": "D:20260617140740+08'00'",
+  "warning": "PDF paths may already have been simplified; not original 8000-step simulation histories.",
+  "operations": "Affine recovery of original axes; no smoothing, interpolation or simulation.",
+  "w_values": [
+    0.0,
+    0.8
+  ],
+  "snapshot_mcs": [
+    [
+      100,
+      300,
+      500,
+      700,
+      1000
+    ],
+    [
+      1500,
+      1550,
+      1600,
+      1650,
+      2000
+    ]
+  ],
+  "path_vertex_counts": [
+    4313,
+    4227
+  ]
+}

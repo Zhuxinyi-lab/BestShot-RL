@@ -1,0 +1,24 @@
+{
+  "source_pdf": "figure3.pdf",
+  "source_sha256": "4813a310ff75fdcd7a3c4c047286a9fc9bc9d341040358824315094bb44f647e",
+  "data_kind": "displayed_vector_path_vertices_and_embedded_RGB_snapshots",
+  "warning": "Paths may already be simplified by the original PDF exporter; not raw simulation time series.",
+  "operations": "Affine conversion of original axis coordinates; no smoothing or interpolation; snapshots unchanged.",
+  "w_values": [
+    0.0,
+    0.8,
+    0.99
+  ],
+  "snapshot_mcs": [
+    0,
+    20,
+    200,
+    1500,
+    8000
+  ],
+  "path_vertex_counts": [
+    2675,
+    3851,
+    4097
+  ]
+}
